@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\bin\Debug\net6.0\Indices_udy.exe
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\bin\Debug\net6.0\Indices_udy.deps.json
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\bin\Debug\net6.0\Indices_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\bin\Debug\net6.0\Indices_udy.dll
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\bin\Debug\net6.0\Indices_udy.pdb
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.dll
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\refint\Indices_udy.dll
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.pdb
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\Indices_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Indices_udy\Indices_udy\obj\Debug\net6.0\ref\Indices_udy.dll
